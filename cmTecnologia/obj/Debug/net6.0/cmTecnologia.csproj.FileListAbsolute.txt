@@ -1,0 +1,15 @@
+C:\Users\fsnn\Projetos\Prova\Prova04\cmTecnologia\cmTecnologia\bin\Debug\net6.0\cmTecnologia.exe
+C:\Users\fsnn\Projetos\Prova\Prova04\cmTecnologia\cmTecnologia\bin\Debug\net6.0\cmTecnologia.deps.json
+C:\Users\fsnn\Projetos\Prova\Prova04\cmTecnologia\cmTecnologia\bin\Debug\net6.0\cmTecnologia.runtimeconfig.json
+C:\Users\fsnn\Projetos\Prova\Prova04\cmTecnologia\cmTecnologia\bin\Debug\net6.0\cmTecnologia.dll
+C:\Users\fsnn\Projetos\Prova\Prova04\cmTecnologia\cmTecnologia\bin\Debug\net6.0\cmTecnologia.pdb
+C:\Users\fsnn\Projetos\Prova\Prova04\cmTecnologia\cmTecnologia\obj\Debug\net6.0\cmTecnologia.csproj.AssemblyReference.cache
+C:\Users\fsnn\Projetos\Prova\Prova04\cmTecnologia\cmTecnologia\obj\Debug\net6.0\cmTecnologia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fsnn\Projetos\Prova\Prova04\cmTecnologia\cmTecnologia\obj\Debug\net6.0\cmTecnologia.AssemblyInfoInputs.cache
+C:\Users\fsnn\Projetos\Prova\Prova04\cmTecnologia\cmTecnologia\obj\Debug\net6.0\cmTecnologia.AssemblyInfo.cs
+C:\Users\fsnn\Projetos\Prova\Prova04\cmTecnologia\cmTecnologia\obj\Debug\net6.0\cmTecnologia.csproj.CoreCompileInputs.cache
+C:\Users\fsnn\Projetos\Prova\Prova04\cmTecnologia\cmTecnologia\obj\Debug\net6.0\cmTecnologia.dll
+C:\Users\fsnn\Projetos\Prova\Prova04\cmTecnologia\cmTecnologia\obj\Debug\net6.0\refint\cmTecnologia.dll
+C:\Users\fsnn\Projetos\Prova\Prova04\cmTecnologia\cmTecnologia\obj\Debug\net6.0\cmTecnologia.pdb
+C:\Users\fsnn\Projetos\Prova\Prova04\cmTecnologia\cmTecnologia\obj\Debug\net6.0\cmTecnologia.genruntimeconfig.cache
+C:\Users\fsnn\Projetos\Prova\Prova04\cmTecnologia\cmTecnologia\obj\Debug\net6.0\ref\cmTecnologia.dll
