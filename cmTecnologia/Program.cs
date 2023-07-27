@@ -15,21 +15,14 @@ namespace MyApp // Note: actual namespace depends on the project name.
             if (num1 > num2)
             {
                 Console.WriteLine("O quadrado do menor numero ("+num2+") é: "+ (Math.Pow(num2, 2)));
-            }
-            else
-            {
-                Console.WriteLine("O quadrado do menor numero ("+num1+") é: " + (Math.Pow(num1, 2)));
-            }
-            
-            if(num2 < num1)
-            {
                 Console.WriteLine("A Raiz Quadradada do maior numero (" + num1 + ") é: " + (Math.Sqrt(num1)));
             }
             else
             {
+                Console.WriteLine("O quadrado do menor numero ("+num1+") é: " + (Math.Pow(num1, 2)));
                 Console.WriteLine("A Raiz Quadradada do maior numero (" + num2 + ") é: " + (Math.Sqrt(num2)));
             }
-
+          
             Console.WriteLine("\n\n\nQuestão 02\n");
 
             Console.Write("Digite seu ano de nascimento: ");
